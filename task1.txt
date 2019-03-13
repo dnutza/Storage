@@ -1,1 +1,1 @@
-We should add new item in our storage.
+We added a new item in our storage.
