@@ -1,1 +1,1 @@
-We should add new item in our storage.
+We should see the result of added product item in our storage.
